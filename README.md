@@ -34,4 +34,4 @@
 
 -->
 [![Linkedin: Rabia Athar](https://img.shields.io/badge/-rabiaathar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabia-athar-23211881/)](https://www.linkedin.com/in/rabia-athar-23211881/)
-[![Email: rabiaathar19@gmail.com](https://img.shields.io/badge/-rabiaathar-red?style=flat-square&logo=Gmail&logoColor=white&link=rabiaathar19@gmail.com)](rabiaathar19@gmail.com)
+[![Email: rabiaathar19@gmail.com](https://img.shields.io/badge/-rabiaathar19@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=rabiaathar19@gmail.com)](rabiaathar19@gmail.com)
