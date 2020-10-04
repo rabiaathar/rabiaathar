@@ -1,6 +1,6 @@
 ### <h2> Rabia Athar </br>
 [![Linkedin: Rabia Athar](https://img.shields.io/badge/-Rabia&nbsp;Athar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabia-athar-23211881/)](https://www.linkedin.com/in/rabia-athar-23211881/)
-[![Email: rabiaathar19@gmail.com](https://img.shields.io/badge/-rabiaathar19@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rabiaathar19@gmail.com)](mailrabiaathar19@gmail.com)
+[![Email: rabiaathar19@gmail.com](https://img.shields.io/badge/-rabiaathar19@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rabiaathar19@gmail.com)](mailto:rabiaathar19@gmail.com)
 </h2>
 
 <h3> About Me </h3>
