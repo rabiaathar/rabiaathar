@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi there 👋<h2> I'm Rabia Athar</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> About Me </h3>
+
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision with an automobile comapany to imrpove crash tests.
+
+- 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit Gmbh.
+
+- 🌱 &nbsp; Learning about Angular and other frameworks for frontend development.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | Matlab | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript
 
 <!--
-**rabiaathar/rabiaathar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🛢 &nbsp; Springboot | Quarkus | MySQL | Angular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
