@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit Gmbh.
 
-- 🌱 &nbsp; Learning about Angular and other frameworks for frontend development.
+- 🌱 &nbsp; Learning about new mage processing techniques along with anngular and other frameworks for frontend development.
 
 
 
