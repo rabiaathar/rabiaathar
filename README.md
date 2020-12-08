@@ -9,11 +9,11 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision with a German automobile comapany to imrpove crash tests.
+- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision with Deep learning with a German automobile comapany to imrpove crash tests.
 
-- 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit Gmbh.
+- 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit GmbH.
 
-- 🌱 &nbsp; Learning about new mage processing techniques along with anngular and other frameworks for frontend development.
+- 🌱 &nbsp; Learning about new image processing techniques along with anngular and other frameworks for frontend development.
 
 
 
