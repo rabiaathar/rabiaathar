@@ -6,14 +6,13 @@
 <h3> About Me </h3>
 
 
+- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision & Deep learning with BMW Group to improve crash tests.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision & Deep learning with a German automobile comapany to improve crash tests.
-
 - 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit GmbH.
 
-- 🌱 &nbsp; Learning about new image processing techniques along with anngular and other frameworks for frontend development.
+- 🌱 &nbsp; Learning Deeplearning, new image processing techniques along with angular and other frameworks for frontend development.
 
 
 
