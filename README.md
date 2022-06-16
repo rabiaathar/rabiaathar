@@ -6,13 +6,13 @@
 <h3> About Me </h3>
 
 
-- ✍️ &nbsp; Working as Research assistant in the filed of Computer Vision & Deep learning with BMW Group to improve crash tests.
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 - 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit GmbH.
 
-- 🌱 &nbsp; Learning Deeplearning, new image processing techniques along with angular and other frameworks for frontend development.
+- 🌱 &nbsp; Learning new technologies and frameworks for software development.
+- 
+- - ✍️ &nbsp; Worked as Research assistant  @ BWM Group in the filed of Computer Vision & Deep learning to improve car crash testesting and automate the process.
 
 
 
@@ -20,11 +20,11 @@
 
 
 
-- 💻 &nbsp; Python | Java | Matlab | MySQL
+- 💻 &nbsp; Python | Java | Matlab | MySQL | TypeScript
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
-- 🛢 &nbsp; Springboot | Quarkus | MySQL | Angular
+- 🛢 &nbsp; Springboot | Quarkus | MySQL | Angular | Vue | Payara
 
 
 
