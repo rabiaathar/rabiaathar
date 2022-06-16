@@ -11,8 +11,8 @@
 - 💻 &nbsp; Pursuing Web Development as hobbies/side hustles with mindbit GmbH.
 
 - 🌱 &nbsp; Learning new technologies and frameworks for software development.
-- 
-- - ✍️ &nbsp; Worked as Research assistant  @ BWM Group in the filed of Computer Vision & Deep learning to improve car crash testesting and automate the process.
+
+- ✍️ &nbsp; Worked as Research assistant  @ BWM Group in the filed of Computer Vision & Deep learning to improve car crash testesting and automate the process.
 
 
 
